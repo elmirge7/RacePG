@@ -17,7 +17,7 @@ Le but du jeu est de réaliser le plus gros score possible en évitant les obsta
 ## Téléchargement
 
 Vous pouvez télécharger la dernière version du jeu en cliquant sur le lien ci-dessous :
-[**Télécharger RacePG**](lien-de-telechargement)
+[**Télécharger RacePG**](https://github.com/elmirge7/RacePG/blob/master/RacePG.jar)
 
 ## Installation et Exécution
 
